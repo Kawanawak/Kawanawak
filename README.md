@@ -1,16 +1,44 @@
-## Hi there 👋
+## Olá Mundo! 👋
 
-<!--
-**Kawanawak/Kawanawak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Estudando para ser um desenvolvedor Mobile Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Kawanawak&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Kawanawak&show_icons=true&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=Kawanawak&show_icons=true&title_color=C00102&icon_color=C00102" />
+      </picture>
+    </td>
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawanawak&layout=compact&theme=dark&title_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawanawak&layout=compact&title_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawanawak&layout=compact&title_color=C00102" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Skills
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### 🌟 Quote
+
+_"A única maneira de fazer um ótimo trabalho é amar o que você faz."_ - Steve Jobs
+
