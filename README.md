@@ -1,7 +1,7 @@
 ## Olá Mundo! 👋
 
 
-- 🌱 Estudando para ser um desenvolvedor Mobile Flutter
+- 🌱 Analista de Dados 
 
 <table>
   <tr style="border: none;">
