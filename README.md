@@ -1,7 +1,7 @@
 ## Olá Mundo! 👋
 
 
-- 🌱 Desenvolvedor Mobile Fluuter 
+- 🌱 Desenvolvedor Mobile Flutter 
 
 <table>
   <tr style="border: none;">
